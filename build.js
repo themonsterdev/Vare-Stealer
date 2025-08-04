@@ -227,3 +227,4 @@ async function vareInstaller() {
     await vareInstaller();
   }
 })();
+
